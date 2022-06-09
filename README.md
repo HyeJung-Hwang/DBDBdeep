@@ -23,7 +23,8 @@
 │   ├── editStore.java
 │   ├── reviewSort.java
 │   └── appAnal.java
-├── 크롤링.ipynb
+├── data
+│   └── data_hj.py
 ```
 
 ## 사용 데이터
